@@ -1,0 +1,4 @@
+#Sun Nov 24 16:56:04 KST 2019
+base.0=C\:\\Users\\minta\\Dropbox\\Coding\\Course\\The Complete Flutter Development Bootcamp Using Dart\\bitcoin-flutter-challenge-start\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
